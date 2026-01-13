@@ -1,0 +1,14 @@
+{
+  "font-name": "KrakenOverrides",
+  "root-dir": "./node_modules/material-design-icons/",
+  "icons": [
+    {
+      "name": "replay-10",
+      "svg": "av/svg/production/ic_replay_10_48px.svg"
+    },
+    {
+      "name": "forward-10",
+      "svg": "av/svg/production/ic_forward_10_48px.svg"
+    }
+  ]
+}
