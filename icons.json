@@ -116,33 +116,27 @@
     },
     {
       "name": "replay-5",
-      "svg": "replay-5.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_replay_5_48px.svg"
     },
     {
       "name": "replay-10",
-      "svg": "replay-10.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_replay_10_48px.svg"
     },
     {
       "name": "replay-30",
-      "svg": "replay-30.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_replay_30_48px.svg"
     },
     {
       "name": "forward-5",
-      "svg": "forward-5.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_forward_5_48px.svg"
     },
     {
       "name": "forward-10",
-      "svg": "forward-10.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_forward_10_48px.svg"
     },
     {
       "name": "forward-30",
-      "svg": "forward-30.svg",
-      "root-dir": "./custom-icons/skip-forward-backward/"
+      "svg": "av/svg/production/ic_forward_30_48px.svg"
     },
     {
       "name": "audio",
