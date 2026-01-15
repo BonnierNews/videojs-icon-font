@@ -1,0 +1,21 @@
+{
+  "font-name": "KrakenOverrides",
+  "root-dir": "./node_modules/material-design-icons/",
+  "icons": [
+    {
+      "name": "ghost-glyph",
+      "svg": "ghost-glyph.svg",
+      "root-dir": "./custom-icons/"
+    },
+    {
+      "name": "skipback-10",
+      "svg": "rewind-10_custom.svg",
+      "root-dir": "./custom-icons/rewind-forward/"
+    },
+    {
+      "name": "skipforward-10",
+      "svg": "forward-10_custom.svg",
+      "root-dir": "./custom-icons/rewind-forward/"
+    }
+  ]
+}
