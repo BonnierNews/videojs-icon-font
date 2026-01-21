@@ -16,6 +16,14 @@
       "name": "skipforward-10",
       "svg": "forward-10_custom.svg",
       "root-dir": "./custom-icons/rewind-forward/"
+    },
+    {
+      "name": "cast",
+      "svg": "hardware/svg/production/ic_cast_24px.svg"
+    },
+    {
+      "name": "cast-connected",
+      "svg": "hardware/svg/production/ic_cast_connected_24px.svg"
     }
   ]
 }
