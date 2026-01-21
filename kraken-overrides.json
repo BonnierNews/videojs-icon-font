@@ -24,6 +24,10 @@
     {
       "name": "cast-connected",
       "svg": "hardware/svg/production/ic_cast_connected_24px.svg"
+    },
+    {
+      "name": "airplay",
+      "svg": "av/svg/production/ic_airplay_24px.svg"
     }
   ]
 }
